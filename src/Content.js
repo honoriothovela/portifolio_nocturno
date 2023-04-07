@@ -1,6 +1,6 @@
 
 import mascara from "./assets/images/Hireme/mascara.jpg"
-import tres from "./assets/images/hero/tres.jpg"
+import tres from "./assets/images/Hero/tres.jpg"
 
 import figma from "./assets/images/Skills/figma.png";
 import reactjs from "./assets/images/Skills/react.png";
