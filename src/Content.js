@@ -214,19 +214,19 @@ export const content = {
       },
       {
         review:
-          "“eu direi simplesmente que és umas das melhores pessoas que conheci, sempre está preparado para mudar quem precisa, uma pessoa bastante prestativa no trabalho que faz, palavras são muitas ,mas me limito porque não quero escrever um livro sobre ele.”",
+          "“eu direi simplesmente que és umas das melhores pessoas que conheci, uma pessoa bastante prestativa no trabalho que faz, palavras são muitas ,mas me limito porque não quero escrever um livro sobre ele.”",
         img: edvalda,
         name: "Edvalda Joaquim",
       },
       {
         review:
-          "“Convive, e muito com esse jovem programador profissional na escola e nos projetos profissionais, responsável  tanto no recinto escolar, e até social . Boa pessoa e gentil . Um bom programador companheiro, amigo e irmão... Vamos Codar.”",
+          "“Convive, e muito com esse jovem programador profissional na escola e nos projetos profissionais, responsável ,Boa pessoa e gentil . Um bom programador , amigo e irmão... Vamos Codar.”",
         img: edson,
         name: "Edson Thomas",
       },
       {
         review:
-          "“És bonito. Apesar dos defeitos,  tens bons feitos. Oque me impressiona é a sua determinação de seguir seus sonhos em meio as dificuldades, não tendo muito apoio. E o facto de sempre prover soluções para problemas a sua área de actuação.”",
+          "“És bonito.Apesar dos defeitos, tens bons feitos. Oque me impressiona é a sua determinação e o facto de sempre prover soluções para problemas a sua área de actuação.”",
         img: alberto,
         name: "Lourenco Macauze jr",
       },
@@ -278,6 +278,6 @@ export const content = {
     ],
   },
   Footer: {
-    text: "All © Copy Right Reserved 2023 by Alicehost",
+    text: "All © Copy Right Reserved 2023 by Alicehost, Milagr.",
   },
 };
