@@ -19,10 +19,10 @@ import services_logo1 from "./assets/images/Services/logo1.png";
 import services_logo3 from "./assets/images/Services/logo3.png";
 import android from "./assets/images/Services/android.png";
 
-import estudo from "./assets/images/projects/estudo.png";
-import rede from "./assets/images/projects/rede.png";
-import emprego from "./assets/images/projects/emprego.png";
-import conducao from "./assets/images/projects/conducao.png";
+import estudo from "./assets/images/Projects/estudo.png";
+import rede from "./assets/images/Projects/rede.png";
+import emprego from "./assets/images/Projects/emprego.png";
+import conducao from "./assets/images/Projects/conducao.png";
 
 
 import apontar from "./assets/images/Projects/apontar.jpg";
@@ -173,7 +173,7 @@ export const content = {
       },
       {
         title: "ui / ux DESIGNING",
-        para: "crio interfaces que atendem às expectativas do usuário quanto às sensações e experiências dentro dos aplicativos móveis. Usando técnicas de UI/UX, desenvolvo soluções que fazem com que usar o seu app seja fácil e intuitivo.",
+        para: "Crio interfaces que atendem às expectativas do usuário quanto às sensações e experiências dentro dos aplicativos móveis. Usando técnicas de UI/UX, desenvolvo soluções que fazem com que usar o seu app seja fácil e intuitivo.",
         logo: services_logo3,
       },
       
