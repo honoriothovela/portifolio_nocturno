@@ -23,8 +23,6 @@ import estudo from "./assets/images/Projects/estudo.png";
 import rede from "./assets/images/Projects/rede.png";
 import emprego from "./assets/images/Projects/emprego.png";
 import conducao from "./assets/images/Projects/conducao.png";
-
-
 import apontar from "./assets/images/Projects/apontar.jpg";
 
 
@@ -47,7 +45,7 @@ import { RiServiceLine, RiProjectorLine } from "react-icons/ri";
 import { MdOutlinePermContactCalendar } from "react-icons/md";
 
 export const content = {
-  nav: [
+    nav: [
     {
       link: "#home",
       icon: TbSmartHome,
@@ -124,7 +122,7 @@ export const content = {
       },
       {
         name: "Node js",
-        para: "competência:Bom",
+        para: "competência:Excelente",
         logo: nodejs,
       },
       {
